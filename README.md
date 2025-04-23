@@ -2,7 +2,7 @@
 
 Custom Frontend From Scratch
 
-<h3>Logo/Image</h3>
+![Logo](./images/city_logo.png)
 
 ## Project Description
 
@@ -25,7 +25,7 @@ Your challenge is to create a captivating and immersive web experience that show
 
 # Website Home Page
 
-![Desing](./images/Figma_Desing.png)
+![Design](./images/Figma_Desing.png)
 
 # General Website Template
 
